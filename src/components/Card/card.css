@@ -1,0 +1,16 @@
+.grid{
+    margin: 10px;
+    margin-bottom: 30px;
+}
+.container{
+    
+}
+.infected{
+    border-bottom: 10px solid rgb(89, 89, 212);
+}
+.recovered{
+    border-bottom: 10px solid rgb(60, 224, 134);
+}
+.deaths{
+    border-bottom: 10px solid rgb(207, 5, 39);
+}
